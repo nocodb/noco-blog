@@ -1,0 +1,11 @@
+{
+  "name": "noco-blog",
+  "short_name": "noco-blog",
+  "description": "",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3282ff",
+  "lang": "en"
+}
