@@ -1,7 +1,6 @@
 {
   "name": "noco-blog",
   "short_name": "noco-blog",
-  "description": "",
   "icons": [],
   "start_url": "/?standalone=true",
   "display": "standalone",
